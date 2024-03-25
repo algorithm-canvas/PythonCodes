@@ -1,0 +1,1 @@
+print(-int(not not not not True)**2)
