@@ -1,0 +1,3 @@
+This is an example file for file handling in python.
+This line is added by write_file.py
+Its a magic
