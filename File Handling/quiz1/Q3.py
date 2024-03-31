@@ -1,0 +1,5 @@
+file = open("example1.txt", "r")
+file.seek(1)
+file.seek(1)
+text = file.read(1)
+print(text)
